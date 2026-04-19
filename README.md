@@ -18,7 +18,7 @@ Analisar a carteira com foco em:
 
 ## 📊 Dashboard
 
-![Painel](imagens/painel.png)
+![Painel](imagens/dashboard.jpeg)
 
 ## 💡 Insights
 
