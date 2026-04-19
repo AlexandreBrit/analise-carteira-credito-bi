@@ -1,14 +1,18 @@
- Análise de Carteira de Crédito
-Projeto de Business Intelligence desenvolvido para análise de performance e risco em carteira de crédito.
+# 📊 Análise de Carteira de Crédito
 
- Objetivo
+Projeto de Business Intelligence desenvolvido para análise de desempenho e risco em carteira de crédito.
+
+## 🎯 Objetivo
+
 Analisar a carteira com foco em:
+
 - Volume solicitado e utilizado
 - Pipeline ponderado
 - Distribuição por produto e gerente
 - Identificação de clientes com alta utilização
- 
- Tecnologias
+
+## 🛠️ Tecnologias
+
 - SQL
 - Power BI
 - Excel / CSV
