@@ -16,8 +16,6 @@ Analisar a carteira com foco em:
 - Power BI
 - Excel / CSV
 
-## 📊 Dashboard
-
 ![Painel](imagens/dashboard.jpeg)
 
 ## 💡 Insights
