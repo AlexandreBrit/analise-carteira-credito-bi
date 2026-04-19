@@ -20,8 +20,8 @@ Analisar a carteira com foco em:
 - Performance por gerente
 - Potencial de desembolso futuro
 - Identificação de clientes com alta utilização
- 
 🚀 Diferenciais
 - Construção de pipeline ponderado
 - Análise integrada de performance e risco
 - Estrutura completa: dados → análise → visualização
+
