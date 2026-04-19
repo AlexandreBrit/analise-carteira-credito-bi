@@ -7,11 +7,12 @@ Analisar a carteira com foco em:
 - Pipeline ponderado
 - Distribuição por produto e gerente
 - Identificação de clientes com alta utilização
-- 
+ 
 🛠️ Tecnologias
 - SQL
 - Power BI
 - Excel / CSV
+ 
 ![Painel](imagens/dashboard.jpeg)
 
 💡 Insights
@@ -19,7 +20,7 @@ Analisar a carteira com foco em:
 - Performance por gerente
 - Potencial de desembolso futuro
 - Identificação de clientes com alta utilização
-- 
+ 
 🚀 Diferenciais
 - Construção de pipeline ponderado
 - Análise integrada de performance e risco
